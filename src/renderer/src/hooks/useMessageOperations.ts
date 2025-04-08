@@ -1,5 +1,5 @@
 import { EVENT_NAMES, EventEmitter } from '@renderer/services/EventService'
-import store, { useAppDispatch, useAppSelector } from '@render1er/store'
+import store, { useAppDispatch, useAppSelector } from '@renderer/store'
 import {
   clearStreamMessage,
   clearTopicMessages,
